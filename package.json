@@ -5,7 +5,7 @@
   "main": "JSONtoMongo.js",
   "dependencies": {
     "mocha": "^6.2.0",
-    "mongoose": "^5.7.0",
+    "mongoose": "^5.7.5",
     "should": "^13.2.3"
   },
   "devDependencies": {},
